@@ -23,7 +23,7 @@ $grid.Children.Add($canvas) | Out-Null
 $text = New-Object System.Windows.Controls.TextBlock
 $text.Text = "ваш компик заблокирован by кошкодевочка"
 $text.FontSize = 44
-$text.FontFamily = "Consolas"
+$text.FontFamily = "Segoe UI"
 $text.FontWeight = "Bold"
 $text.HorizontalAlignment = "Center"
 $text.VerticalAlignment = "Center"   # текст по центру панели
